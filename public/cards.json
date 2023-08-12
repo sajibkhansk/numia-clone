@@ -1,0 +1,35 @@
+[
+    {
+      "title": "App Chains",
+      "description": "Extend your chain functionality with powerful Analytics and reliable APIs"
+    },
+    {
+      "title": "Wallets",
+      "description": "Forget about managing your own infrastructure and focus on building a great wallet experience."
+    },
+    {
+      "title": "Validators",
+      "description": "Measure delegator loyalty and build tools to engage with them."
+    },
+    {
+      "title": "Analysts",
+      "description": "Dive deep into Cosmos on-chain data and run complex analysis."
+    },
+    {
+      "title": "MEV",
+      "description": "Access on-chain data and necessary infrastructure."
+    },
+    {
+      "title": "Smart Contracts",
+      "description": "Obtain on-chain data and get custom endpoints for your smart contract."
+    },
+    {
+      "title": "Defi Apps",
+      "description": "Forget about complex RPC queries and request all data from one single platform."
+    },
+    {
+      "title": "IBC Apps",
+      "description": "The most comprehensive data set for IBC chains and scalable IBC infrastructure."
+    }
+  ]
+  
